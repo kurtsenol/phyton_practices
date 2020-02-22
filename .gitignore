@@ -2,5 +2,7 @@
 *.csv
 *.txt
 *.pdf
+*.py
 .ipynb_checkpoints/
 Data/
+__pycache__/
